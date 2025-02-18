@@ -1,7 +1,7 @@
 <!-- The MATRIX Software Development Club -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/The-Matrix-Tech-hub/.github/refs/heads/main/Matrix_Wallpaper.jpeg" alt="The MATRIX Logo" width="700">
+  <img src="https://raw.githubusercontent.com/TheMatrixCodeHub/TheMatrixCodeHub/refs/heads/main/Matrix_Wallpaper.jpeg" alt="The MATRIX Logo" width="700">
 </p>
 
 <h1 align="center">Welcome to The MATRIX</h1>
